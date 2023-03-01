@@ -10,10 +10,10 @@ This is a beginner project incorporating all of basic HTML tags (and their corre
     <strong>, <em>
  - list tags:
     <ol>, <ul>, <li>
- - anchor tags:
-    <a href>
- - image tags:
-    <img>, <alt>
+ - anchor tag:
+    <a>
+ - image tag:
+    <img>
 
 All of the files for this project were created/modified exclusively within a Linux CLI environment (Bash terminal).
 

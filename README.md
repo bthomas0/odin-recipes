@@ -2,25 +2,25 @@
 TOP Foundations: Recipes
 
 This is a beginner project incorporating all of basic HTML tags (and their correlated attributes) covered so far in TOP, including:
- - necessary boilerplate tags: !DOCTYPE, html, head, meta, title, body
+ - necessary boilerplate tags: `!DOCTYPE`, `html`, `head`, `meta`, `title`, `body`
  - heading tags:
-    h1 through h6
+    `h1` through `h6`
  - basic formatting tags:
-    strong, em
+    `strong`, `em`
  - list tags:
-    ol, ul, li
+    `ol`, `ul`, `li`
  - anchor tag:
-    a
+    `a`
  - image tag:
-    img
+    `img`
 
 All of the files for this project were created/modified exclusively within a Linux CLI environment (Bash terminal).
 
 Bash commands used for this project include:
- - pwd, ls, cd, mkdir, touch, mv
+ - `pwd`, `ls`, `cd`, `mkdir`, `touch`, `mv`
  
  Application-specific commands include:
  - VSCode:
-    code
+    `code`
  - Git:
-    clone, status, add, commit, push
+    `clone`, `status`, `add`, `commit`, `push`

@@ -16,3 +16,8 @@ ul li {
     font-weight: bold;
     padding: 10px;
 }
+
+#garfield {
+    height: auto;
+    width: 350px;
+}
